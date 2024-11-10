@@ -20,7 +20,7 @@ d6|d6|d6
 When rolling on the left column of the random terrain table, you'll notice a number. This number is then used to scale the effects from the right column of the random terrain table, and it replaces X.
 
 Element|Effect
--|-|-
+-|-
 **Bridge**|Models can only move one at a time, creating a "choke point". In close combat on the bridge. Model that ends its charge in 2" of this terrain gets +1 to their WS due to restricted movement.
 **Tower**|Models on the tower (on whatever can be considered its top floor or its roof) grant their warband vision of all hidden enemy models.
 **Heap**|Counts as very difficult terrain (1/4 of the movement).
@@ -31,7 +31,7 @@ Element|Effect
 ---
 
 Element|Effect
--|-|-
+-|-
 **Poisoned river**| During their recovery phase, any model in the river must pass a toughness test. If failed, they are poisoned: when rolling for serious injuries at the end of the game, they suffer -X to the result.
 **Raven's nest**|Models within X" of the nest must pass a leadership test in their recovery phase. If failed, they attempt to flee the battlefield.
 **Ruined statue**|If your model ends its movement within 2" of this terrain, roll 1D6. On a 4+, the model finds a hidden treasure! It adds +X (to a max of 6) to a single exploration dice roll after the game.
