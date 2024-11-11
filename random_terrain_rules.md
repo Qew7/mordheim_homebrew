@@ -7,9 +7,9 @@ d6|d6|d6
 1 Surrounded by mist|bridge|over a poisoned river
 2 Tilting|tower|with a raven's nest
 3 Collapsed|heap|with a ruined statue
-4 Mysterious|wall|with a shattered tower
-5 Cursed|entrance|with tombs
-6 Yawning|pit|with eerie glow
+4 Mysterious|wall|with a magical tower
+5 Cursed|entrance|with coffins
+6 Yawning|pit|with leeches
 
 ---
 
@@ -36,5 +36,5 @@ Element|Effect
 **Raven's nest**|Models within X" of the nest must pass a leadership test in their recovery phase. If failed, they attempt to flee the battlefield.
 **Ruined statue**|If your model ends its movement within 2" of this terrain, roll 1D6. On a 4+, the model finds a hidden treasure! It adds +X (to a max of 6) to a single exploration dice roll after the game.
 **Shattered tower**|Any models ending their movement phase within 2" of the tower must pass an initiative test. If failed, they trigger a trap and suffer 1D3 SX hits from falling debris.
-**Tombs**|At the beginning of the game, after model setup, roll 1D6. On a 1-3, the tombs emit a foul stench: any model ending its turn within X" of the tombs is automatically out of action as soon as their wound counter drops to 0 or lower. On a 4-5, the tombs emit dying gasps: any hit rolls (WS or BS) within X" of the tombs suffer a -1 modifier. On a 6, the first model to enter within 2" of the tombs finds a golden tooth in one of the deceased's mouths, worth X gold coins.
-**Eerie glow**|If any model of winning warband is standing in 2" of this terrain at the end of a game, then roll 1d6. On 1 the glow turns out to be nothing. On 2-5 it was gold glowing! Warband gets Xd6 gold coins. On 6 It was gold and wyrdstone glowing! Warband gets Xd6 gold and X wyrdstone!
+**Coffins**|At the beginning of the game, after model setup, roll 1D6. On a 1-3, the tombs emit a foul stench: any model ending its turn within X" of the tombs is automatically out of action as soon as their wound counter drops to 0 or lower. On a 4-5, the tombs emit dying gasps: any hit rolls (WS or BS) within X" of the tombs suffer a -1 modifier. On a 6, the first model to enter within 2" of the tombs finds a golden tooth in one of the deceased's mouths, worth X gold coins.
+**Leeches**|A model within 2" of leeches should check the number of X: if X is 1, the amount of leeches is insurmountable, model is drowned in them and is considered out of action, if X is 2-5 then model gets hit with that amount of S1 hits, if X is 6 (this effect can only be triggered once per game) then the random, non psychological, serious injury of that model is permanently healed.
