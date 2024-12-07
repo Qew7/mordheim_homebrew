@@ -1,9 +1,12 @@
 # Warband Rules for Stormcast Eternals Reclusians
 ===============================================
 
-### **General Rules**
-- **Development Dice Limit:** Reclusians warbands are limited to **5 Development Dice** during their post-battle sequence.
-- **Memorians as Henchmen:** Memorians are hired using a unique **2d6 Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules. Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian.
+### **Special Rules**
+- **Oathbound Discovery:** In post-battle sequence, in exploration phase, you roll one exploration dice per each alive memorian instead of hero.
+- **Memorians as Henchmen:** Memorians are hired using a unique **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules. Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
+- **Eternal Serving:** Stormcasts can't be fired from a warband.
+- **The Trial of Reforging:** When a Reclusian Hero suffers a serious injury or loses their Memorian, roll **2d6** on the The **Trial of Reforging** table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
+- **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Reclussians, whom they consider heretics. As a result, all Witch Hunter models gain the Hatred special rule when fighting against members of the Reclussian warband.
 
 ---
 
@@ -24,7 +27,34 @@ All Memorians give +1M as additional bonus to their paired Stormcast.
 | 10-11| Memorian: +1 Strength (S)                     | Grants +1 Strength to the paired Stormcast.      |
 | 12   | Memorian: +1 Toughness (T)                    | Grants +1 Toughness to the paired Stormcast.     |
 
-*Note:* After hiring you should pair your memorian with his Stormcast Reclussian, only one memorian can be paired to a Reclussian at a time.
+*Note:* Before hiring you should choose Hero you will pair your memorian with, only one memorian can be paired to a Reclussian at a time.
+
+---
+
+### **Memorian Death Effects**
+When a Memorian is taken out of action, the connected Stormcast must roll on the **Trial of Reforging** table after game even if  his the model didnt get taken Out Of Action, if it got taken Out Of Action and his memorian got taken Out Of Action then that model should roll on the **Trials of Reforging** twice. This represents the spiritual and emotional shattering caused by the loss of their "Anchor."
+- The reforging effects do stack, but you can get maximum 5 **Trials of Reforging** effects.
+- If the model already has 5 effects, then instead of rolling on **Trial of Reforging** table it loses 1 Movement (**M**) permanently.
+
+---
+
+### **The Trial of Reforging**
+
+The changes to a Reclusian are permanent, reflecting their gradual transformation into something increasingly alien to mortal comprehension.
+
+| Roll | Result | Effect |
+|-|-|-|
+| 2 | **The Shattered Soul**  | The Stormcast’s body is fractured. The model suffers -1 Toughness (**T**) permanently. |
+| 3 | **Lightning-Wreathed Fury** | Lightning surges uncontrollably through their body. At the start of each battle, roll a D6: on a 1, the model takes a Strength 3 hit, no armor saves apply. |
+| 4 | **Sigmar’s Wrath Burns Within** | Their soul becomes volatile. The model forgets one random skill they learned. |
+| 5 | **Echoes of the Aether**  | Their voice becomes distorted and otherworldly. Enemies in combat with this model suffer -1 Leadership (**Ld**) when testing Fear. |
+| 6 | **Battle-Scarred Veteran** | The reforging strengthens their resolve. The model becomes immune to Fear but cannot run. |
+| 7 | **Soul Fragmentation** | The process has left the soul weakened but strangely resilient. The model suffers -1 Wound (**W**) (down to at least 1) permanently but gains a **+1 Armor Save** against ranged attacks. |
+| 8 | **Eyes of the Storm** | Lightning crackles from their eyes, illuminating the darkness. The model can reroll failed Initiative (**I**) tests for charging hidden models but ppermanently suffers -1 Weapon Skill (**WS**) due to disorientation. |
+| 9 | **Celestial Strength** | Their reforged body carries fragments of Sigmar’s divine power. Gain +1 Wound (**W**) but suffer -1 Initiative (**I**) as their reaction become slower. |
+| 10 | **The Scars of Rebirth** | The model’s reforged flesh is covered in glowing, storm-like scars. Enemy models gain -1 to **to-hit rolls** in both melee and ranged combat against them due to their luminescent aura. |
+| 11 | **The Call of the Aetheric Veil**  | The reforging has left the Stormcast attuned to the divine, but distant from reality. The model gains 6+ save from spells but suffers -1 Leadership (**Ld**) permanently. |
+| 12 | **Sigmar’s Chosen** | The reforging is near-perfect. The model gains **+1 Weapon Skill (WS)**. |
 
 ---
 
@@ -32,7 +62,7 @@ All Memorians give +1M as additional bonus to their paired Stormcast.
 Reclusians may choose skills from the following table during advancement:
 
 1. **Lightning Descent**  
-   During deployment, this model may choose to be held in reserve. Deploy that model during any Recovery Phase. Choose a point on a map within **6 inches** of that model memorian, then test initiative: upon succesful test that model arrived on that point, upon failure use scatter dice and d6 to locate its arrival point relative to selected point. Upon arrival, all models within **3 inches** take a **Strength 3 hit**.  
+   During deployment, this model may choose to be held in reserve. Deploy that model during any Recovery Phase. Choose a point on a map within **6 inches** of that model memorian without any roof on top of it, then test initiative (**I**): upon succesful test that model arrived on that point, upon failure use scatter dice and d6 to locate its arrival point relative to selected point. Upon arrival, all models within **3 inches** take a **Strength 5 hit**.  
 
 2. **Celestial Charge**  
    Once per battle, in charge phase, the Stormcast can make a charge without needing line of sight. This charge ignores difficult terrain penalties.
@@ -50,43 +80,15 @@ Stormcast warriors can upgrade standard Mordheim equipment with unique Stormcast
 Weapon and armor upgrades do not stack.
 
 #### **Weapon Upgrades**
-1. **Sigmarite Edge:** Sword gains a critical hit bonus against Chaos models, critting on **5-6** instead of 6. (Only for Swords **Cost:** 10 Gold Crowns **Rarity** 9)
-2. **Runed Strikes:** Mace can reroll failed **to-hit rolls** against Undead models. (Only for Axes **Cost:** 15 Gold Crowns **Rarity** 9)
+1. **Sigmarite Edge:** Sword gains a critical hit bonus against Chaos models, critting on **5-6** instead of 6. (Only for weapons with Parry rule **Cost:** 10 Gold Crowns **Rarity** 9)
+2. **Runed Strikes:** Hammer of Axe can reroll failed **to-hit rolls** against Undead models. (Only for weapons with Concussion rule Cutting edge rule **Cost:** 15 Gold Crowns **Rarity** 9)
 3. **Rune-blessed Weapons:** Melee attacks gain **+1 Strength** on the charge. (Any weapon **Cost:** 15 Gold Crowns **Rarity** 11)
-4. **Judgement Blade:** (Only for Lord-Veritant) Melee attacks gain **+1 to to-hit rolls** against models that can cast magic. (Only for Swords **Cost:** 15 Gold Crowns **Rarity** 9)
-5. **Hallowed Greataxes:** (Only for Lord-Vigilant) Melee attacks gain **+1 to to-hit rolls** against Undead and Chaos models. (Only for Axes **Cost:** 10 Gold Crowns **Rarity** 9)
+4. **Judgement Blade:** (Only for Lord-Veritant) Melee attacks gain **+1 to to-wound rolls** against models that can cast magic. (Only for for weapons with Parry rule **Cost:** 25 Gold Crowns **Rarity** 8)
+5. **Hallowed Greataxes:** (Only for Lord-Vigilant) Melee attacks gain **+1 to to-wound rolls** against Undead and Chaos models. (Only for weapons with Cutting edge rule **Cost:** 30 Gold Crowns **Rarity** 9)
 
 #### **Armor Upgrades**
 1. **Celestial Plate:** Standard armor improves by **+1 save** (e.g., light armor becomes 5+, heavy armor becomes 4+). (**Cost:** 30 Gold Crowns **Rarity** 10)
-2. **Sigmars mask:** The Stormcast becomes immune to **Fear**. (**Cost:** 25 Gold Crowns **Rarity** 6)
-
----
-
-### **Special Rule: Memorian Death Effects**
-When a Memorian got out of action, the connected Stormcast must roll on the **Trial of Reforging** table even if the model didnt fell Out Of Action, if it fell Out Of Action and his memorian got Out Of Action then that model should roll on the **Trials of Reforgin** twice. This represents the spiritual and emotional shattering caused by the loss of their "Anchor."
-- The reforging effects do not stack, if you roll into result that this model already has, you should reroll untill you get result which that model does not have yet.
-- If the model already has all 12 effects, then instead of rolling on **Trial of Reforging** table it loses 1M
-
----
-
-### **Reclusian Serious Injury Table: The Trial of Reforging**  
-When a Reclusian suffers a serious injury or loses their Memorian, roll **2d6** on the table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.  
-
-The changes to a Reclusian are permanent, reflecting their gradual transformation into something increasingly alien to mortal comprehension.
-
-| Roll | Result | Effect |
-|-|-|-|
-| 2 | **The Shattered Soul**  | The Stormcast’s mind is fractured. The model suffers -1 Leadership (**Ld**) permanently. |
-| 3 | **Lightning-Wreathed Fury** | Lightning surges uncontrollably through their body. At the start of each battle, roll a D6: on a 1, the model takes a Strength 3 hit. |
-| 4 | **Sigmar’s Wrath Burns Within** | Their soul becomes volatile. The model gains +1 Strength (**S**) but suffers -1 Initiative (**I**). |
-| 5 | **Echoes of the Aether**  | Their voice becomes distorted and otherworldly. Enemies in combat with this model suffer -1 Leadership (**Ld**) when testing Fear. |
-| 6 | **Battle-Scarred Veteran** | The reforging strengthens their resolve. The model becomes immune to Panic but cannot run. |
-| 7 | **Soul Fragmentation** | The process has left the soul weakened but strangely resilient. The model suffers -1 Wound (**W**) (down to at least 1) permanently but gains a **+1 Armor Save**. |
-| 8 | **Eyes of the Storm** | Lightning crackles from their eyes, illuminating the darkness. The model can reroll failed Initiative (**I**) tests in the dark but suffers -1 Weapon Skill (**WS**) due to disorientation. |
-| 9 | **Celestial Strength** | Their reforged body carries fragments of Sigmar’s divine power. Gain +1 Toughness (**T**) but suffer -1 Initiative (**I**) as their movements slow. |
-| 10 | **The Scars of Rebirth** | The model’s reforged flesh is covered in glowing, storm-like scars. Gain **+1 Armor Save**, but enemy models gain +1 to hit them in combat due to their luminescent aura. |
-| 11 | **The Call of the Aetheric Veil**  | The reforging has left the Stormcast attuned to the divine, but distant from reality. The model gains 6+ save from spells but suffers -1 Leadership (**Ld**) permanently. |
-| 12 | **Sigmar’s Chosen** | The reforging is near-perfect. The model gains **+1 Weapon Skill (WS)** and immunity to knock-down injury results, but their presence unnerves allies, who suffer -1 Leadership when within 6 inches. |
+2. **Sigmars mask:** The Stormcast becomes immune to **Fear** when hes getting charged by model with that rule. (**Cost:** 25 Gold Crowns **Rarity** 7)
 
 ---
 
