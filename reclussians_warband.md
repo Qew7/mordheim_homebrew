@@ -74,6 +74,14 @@ Ruination Chamber heroes may choose skills from the following table during advan
 
 ---
 
+**Maximum profile for Ruination Chamber heroes**
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 5 | 8 | 5 | 6 | 6 | 3 | 8 | 5 | 9 |
+
+---
+
 Ruination Chamber equipment list 
 The following list is used by Ruination Chamber warbands to pick their equipment:
 
