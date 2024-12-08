@@ -18,7 +18,7 @@ Roll **2d6** to determine the Memorian you find (if any).
 At the start of each turn memorians grant bonuses only if they are within **6 inches** of their paired Ruination Chamber hero model, untill the start of next turn, or until Ruination chamber hero or memorian is forced to move (eg from falling) farther than **6 inches** away from its paired model on any enemy turn.
 All Memorians give +1M as additional bonus to their paired Ruination Chamber hero.
 
-| Roll | Result | Notes |
+| 2d6 | Result | Notes |
 |---|---|---|
 | 2    | No Memorian Found | You fail to locate any Memorians this round |
 | 3-4  | Found Memorian with Ancestor’s Blade Charm | Grants +1 WS to the paired Ruination Chamber hero |
