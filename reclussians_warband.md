@@ -196,7 +196,7 @@ Use **Memorian Hiring Table** to hire
 
 ## Hired Swords
 
-Ruination Chamber can hire any good aligned Hired Sword and two henchmen below:
+Ruination Chamber can hire any good aligned Hired Sword and three henchmen below:
 
 **Knight Questor**
 
