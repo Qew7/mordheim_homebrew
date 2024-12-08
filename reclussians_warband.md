@@ -2,37 +2,36 @@
 ===============================================
 
 ### **Special Rules**
-- **Oathbound Discovery:** In post-battle sequence, in exploration phase, you roll one exploration dice per each alive memorian instead of hero.
-- **Memorians as Henchmen:** Memorians are hired using a **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules. Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
-- **Eternal Serving:** Stormcasts can't be fired from a warband.
+- **Oathbound Discovery:** In post-battle sequence, in exploration phase, you do not gain any exploration dice for any Stormcast heroes; instead, you roll one exploration dice per friendly memorian not taken out of action.
+- **Memorians as Henchmen:** Memorians are hired using a **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules (at start or in post-battle sequence). Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
+- **Eternal Serving:** Stormcasts can't be fired from a warband. Memorians cant'be promoted to be a hero through Lad's got a talent or any other mean.
 - **The Trial of Reforging:** When a Ruination Chamber Hero suffers is taken out of action during a game (or loses their Memorian) instead of rolling on Serious Injury Table, roll **2d6** on the The **Trial of Reforging** table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
-- **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Ruination Chamber, whom they consider heretics. As a result, all Witch Hunter models gain the Hatred special rule when fighting against members of the Ruination Chamber warband.
+- **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Ruination Chamber, whom they consider heretics. As a result, any Witch hunter models with 'Burn the Witch' also hate members of the Ruination Chamber warband.
 
 ---
 
 ### **Memorian Hiring Table**
+Before hiring you should choose Ruination Chamber hero you will pair your memorian with, only one memorian can be paired to a Ruination Chamber hero at a time.
 Roll **2d6** to determine the Memorian you find (if any).  
-**Cost to Roll:** 15 Gold Crowns per attempt (regardless of success).
+**Cost to Roll:** 25 Gold Crowns per attempt (regardless of success).
 
-Memorians grant bonuses only if they are within **6 inches** of their paired Stormcast model.
+At the start of each turn memorians grant bonuses only if they are within **6 inches** of their paired Stormcast model, untill the start of next turn, or until Ruination chamber hero or memorian is forced to move (eg from falling) farther than **6 inches** away from its paired model on any enemy turn.
 All Memorians give +1M as additional bonus to their paired Stormcast.
 
-| Roll | Result                                          | Notes                                             |
-|------|------------------------------------------------|--------------------------------------------------|
-| 2    | No Memorian Found                              | You fail to locate any Memorians this round.     |
-| 3-4  | Memorian: +1 Weapon Skill (WS)                | Grants +1 WS to the paired Stormcast.            |
-| 5-6  | Memorian: +1 Leadership (Ld)                   | Grants +1 Initiative to the paired Stormcast.    |
-| 7    | Memorian: No Effect                           | You find a Memorian, but it grants no bonus.     |
-| 8-9  | Memorian: +1 Initiative (I)                  | Grants +1 Leadership to the paired Stormcast.    |
-| 10-11| Memorian: +1 Strength (S)                     | Grants +1 Strength to the paired Stormcast.      |
-| 12   | Memorian: +1 Toughness (T)                    | Grants +1 Toughness to the paired Stormcast.     |
-
-*Note:* Before hiring you should choose Hero you will pair your memorian with, only one memorian can be paired to a Ruination Chamber hero at a time.
+| Roll | Result | Notes |
+|---|---|---|
+| 2    | No Memorian Found | You fail to locate any Memorians this round |
+| 3-4  | Found Memorian with Ancestor’s Blade Charm | Grants +1 WS to the paired Stormcast |
+| 5-6  | Found Memorian with Beacon Amulet | Grants +1 Leadership to the paired Stormcast |
+| 7    | Found Memorian with Faded Keepsake | You find a Memorian, but it grants no bonus |
+| 8-9  | Found Memorian with Relic of the Windcaller | Grants +1 Initiative to the paired Stormcast |
+| 10-11| Found Memorian with Hammerstone Pendant | Grants +1 Strength to the paired Stormcast |
+| 12   | Found Memorian with Aegis of the Stalwart | Grants +1 Toughness to the paired Stormcast |
 
 ---
 
 ### **Memorian Death Effects**
-When a Memorian is taken out of action, the connected Stormcast must roll on the **Trial of Reforging** table after game even if  his the model didnt get taken Out Of Action, if it got taken Out Of Action and his memorian got taken Out Of Action then that model should roll on the **Trials of Reforging** twice. This represents the spiritual and emotional shattering caused by the loss of their "Anchor."
+When a Memorian is taken out of action, the paired Stormcast must roll on the **Trial of Reforging** table after game even if  his the model didnt get taken Out Of Action, if it got taken Out Of Action and his memorian got taken Out Of Action then that model should roll on the **Trials of Reforging** twice. This represents the spiritual and emotional shattering caused by the loss of their "Anchor."
 - The reforging effects do stack, but you can get maximum 5 **Trials of Reforging** effects.
 - If the model already has 5 effects, then instead of rolling on **Trial of Reforging** table it loses 1 Movement (**M**) permanently.
 
@@ -42,7 +41,7 @@ When a Memorian is taken out of action, the connected Stormcast must roll on the
 
 The changes to a Ruination Chamber heroes are permanent, reflecting their gradual transformation into something increasingly alien to mortal comprehension.
 
-| Roll | Result | Effect |
+| 2d6 | Result | Effect |
 |-|-|-|
 | 2 | **The Shattered Soul**  | The Stormcast’s body is fractured. The model suffers -1 Toughness (**T**) permanently. |
 | 3 | **Lightning-Wreathed Fury** | Lightning surges uncontrollably through their body. At the start of each battle, roll a D6: on a 1, the model takes a Strength 3 hit, no armor saves apply. |
@@ -50,7 +49,7 @@ The changes to a Ruination Chamber heroes are permanent, reflecting their gradua
 | 5 | **Echoes of the Aether**  | Their voice becomes distorted and otherworldly. Enemies in combat with this model suffer -1 Leadership (**Ld**) when testing Fear. |
 | 6 | **Battle-Scarred Veteran** | The reforging strengthens their resolve. The model becomes immune to Fear but cannot run. |
 | 7 | **Soul Fragmentation** | The process has left the soul weakened but strangely resilient. The model suffers -1 Wound (**W**) (down to at least 1) permanently but gains a **+1 Armor Save** against ranged attacks. |
-| 8 | **Eyes of the Storm** | Lightning crackles from their eyes, illuminating the darkness. The model can reroll failed Initiative (**I**) tests for charging hidden models but ppermanently suffers -1 Weapon Skill (**WS**) due to disorientation. |
+| 8 | **Eyes of the Storm** | Lightning crackles from their eyes, illuminating the darkness. The model can add 4 to their Initiative (**I**) to the distance from which he is able to spot hidden enemies, as if they carried a lantern but permanently suffers -1 Weapon Skill (**WS**) due to disorientation. |
 | 9 | **Celestial Strength** | Their reforged body carries fragments of Sigmar’s divine power. Gain +1 Wound (**W**) but suffer -1 Initiative (**I**) as their reaction become slower. |
 | 10 | **The Scars of Rebirth** | The model’s reforged flesh is covered in glowing, storm-like scars. Enemy models gain -1 to **to-hit rolls** in both melee and ranged combat against them due to their luminescent aura. |
 | 11 | **The Call of the Aetheric Veil**  | The reforging has left the Stormcast attuned to the divine, but distant from reality. The model gains 6+ save from spells but suffers -1 Leadership (**Ld**) permanently. |
@@ -62,7 +61,7 @@ The changes to a Ruination Chamber heroes are permanent, reflecting their gradua
 Ruination Chamber heroes may choose skills from the following table during advancement:
 
 1. **Lightning Descent**  
-   During deployment, this model may choose to be held in reserve. Deploy that model during any Recovery Phase. Choose a point on a map within **6 inches** of that model memorian without any roof on top of it, then test initiative (**I**): upon succesful test that model arrived on that point, upon failure use scatter dice and d6 to locate its arrival point relative to selected point. Upon arrival, all models within **3 inches** take a **Strength 5 hit**.  
+   During deployment, this model may choose to be held in reserve. Deploy that model during any of yours Recovery Phases. Find the memorian paired with the descending model, and pick any point on the board within 6" of them without any roof on top of it, then test initiative (**I**): upon succesful test that model arrived on that point, upon failure use scatter dice and d6 to locate its arrival point relative to selected point. Upon arrival, all models within **3 inches** take a **one 1d3+1 Strength hit** with armor saves applied as normal. If reserved model has no paired memorian on the table, then it is considered taken out of action. 
 
 2. **Celestial Charge**  
    Once per battle, in charge phase, the Stormcast can make a charge without needing line of sight. This charge ignores difficult terrain penalties.
@@ -111,17 +110,17 @@ The following list is used by Ruination Chamber warbands to pick their equipment
 Stormcast warriors can upgrade standard Mordheim equipment with unique Stormcast enhancements.
 All upgraded weapons count as magical weapons.
 Upgrades to weapons and armor only work when Ruination Chambers hero uses them.
-Weapon and armor upgrades do not stack.
+Weapon and armor upgrades do not stack - one weapon can only have one upgrade at a time.
 
 #### **Weapon Upgrades**
 1. **Sigmarite Edge:** Sword gains a critical hit bonus against Chaos models, critting on **5-6** instead of 6. (Only for weapons with Parry rule **Cost:** 10 Gold Crowns **Rarity** 9)
-2. **Runed Strikes:** Hammer of Axe can reroll failed **to-hit rolls** against Undead models. (Only for weapons with Concussion rule Cutting edge rule **Cost:** 15 Gold Crowns **Rarity** 9)
+2. **Runed Strikes:** Hammer or Axe can reroll failed **to-hit rolls** against Undead models. (Only for weapons with Concussion rule Cutting edge rule **Cost:** 15 Gold Crowns **Rarity** 9)
 3. **Rune-blessed Weapons:** Melee attacks gain **+1 Strength** on the charge. (Any weapon **Cost:** 15 Gold Crowns **Rarity** 11)
 4. **Judgement Blade:** (Only for Lord-Veritant) Melee attacks gain **+1 to to-wound rolls** against models that can cast magic. (Only for for weapons with Parry rule **Cost:** 25 Gold Crowns **Rarity** 8)
 5. **Hallowed Greataxes:** (Only for Lord-Vigilant) Melee attacks gain **+1 to to-wound rolls** against Undead and Chaos models. (Only for weapons with Cutting edge rule **Cost:** 30 Gold Crowns **Rarity** 9)
 
 #### **Armor Upgrades**
-1. **Celestial Plate:** Can ignore incoming critical strike effect on a 4+. (**Cost:** 30 Gold Crowns **Rarity** 10)
+1. **Celestial Plate:** On a 4+ any incoming critical strikes are negated to a normal wound. (**Cost:** 30 Gold Crowns **Rarity** 10)
 2. **Sigmars mask:** The Stormcast becomes immune to **Fear** when hes getting charged by model with **Fear** rule. (**Cost:** 25 Gold Crowns **Rarity** 7)
 
 ---
@@ -130,11 +129,11 @@ Weapon and armor upgrades do not stack.
 
 1 **Lord-Vigilant**
 
-140 Gold Crowns to hire 
+130 Gold Crowns to hire 
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
-| | 3 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 10 |
+| | 3 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 8 |
 
 **Weapons/Armor:** Lord-Vigilant may be equipped with weapons and armor chosen from the Hero Equipment list
 
@@ -146,17 +145,17 @@ Weapon and armor upgrades do not stack.
 
 0-1 **Lord-Veritant**
 
-75 Gold Crowns to hire
+70 Gold Crowns to hire
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
-| | 3 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+| | 3 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
 
 **Weapons/Armor:** Lord-Veritant may be equipped with weapons and armor chosen from the Hero Equipment list
 
 **SPECIAL RULES**
 
-**Sense unholy sorcery:** while this model is not taken Out Of Action substract 1  from any enemy spell casting rolls from Chaos Rituals, Necromancy, and any other chaos aligned magic.
+**Sense unholy sorcery:** Substract 1 from any enemy spell casting rolls from Chaos Rituals, Necromancy, and any other chaos aligned magic, cast by wizards within **8 inches**
 
 **Wizard:** The Lord-Veritant is a wizard and uses Prayers of Sigmar. See the Magic section of core rules for details
 
@@ -164,11 +163,11 @@ Weapon and armor upgrades do not stack.
 
 0-3 **Reclussian**
 
-70 Gold Crowns to hire 
+65 Gold Crowns to hire 
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
-| | 3 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
+| | 3 | 4 | 3 | 3 | 4 | 1 | 4 | 1 | 7 |
 
 **Weapons/Armor:** Reclussian may be equipped with weapons and armor chosen from the Hero Equipment list
 
@@ -181,7 +180,7 @@ Use **Memorian Hiring Table** to hire
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
-| | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 1 | 6 |
+| | 4 | 2 | 2 | 2 | 3 | 1 | 3 | 1 | 6 |
 
 **Weapons/Armor**: Memorian may be equipped with weapons and armor chosen from the Henchmen Equipment list.
 
