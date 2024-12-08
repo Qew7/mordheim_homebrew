@@ -1,12 +1,12 @@
-# Warband Rules for Stormcast Eternals Reclusians
+# Warband Rules for Stormcast Eternals Ruination Chamber
 ===============================================
 
 ### **Special Rules**
 - **Oathbound Discovery:** In post-battle sequence, in exploration phase, you roll one exploration dice per each alive memorian instead of hero.
-- **Memorians as Henchmen:** Memorians are hired using a unique **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules. Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
+- **Memorians as Henchmen:** Memorians are hired using a **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules. Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
 - **Eternal Serving:** Stormcasts can't be fired from a warband.
-- **The Trial of Reforging:** When a Reclusian Hero suffers a serious injury or loses their Memorian, roll **2d6** on the The **Trial of Reforging** table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
-- **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Reclussians, whom they consider heretics. As a result, all Witch Hunter models gain the Hatred special rule when fighting against members of the Reclussian warband.
+- **The Trial of Reforging:** When a Ruination Chamber Hero suffers is taken out of action during a game (or loses their Memorian) instead of rolling on Serious Injury Table, roll **2d6** on the The **Trial of Reforging** table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
+- **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Ruination Chamber, whom they consider heretics. As a result, all Witch Hunter models gain the Hatred special rule when fighting against members of the Ruination Chamber warband.
 
 ---
 
@@ -27,7 +27,7 @@ All Memorians give +1M as additional bonus to their paired Stormcast.
 | 10-11| Memorian: +1 Strength (S)                     | Grants +1 Strength to the paired Stormcast.      |
 | 12   | Memorian: +1 Toughness (T)                    | Grants +1 Toughness to the paired Stormcast.     |
 
-*Note:* Before hiring you should choose Hero you will pair your memorian with, only one memorian can be paired to a Reclussian at a time.
+*Note:* Before hiring you should choose Hero you will pair your memorian with, only one memorian can be paired to a Ruination Chamber hero at a time.
 
 ---
 
@@ -40,7 +40,7 @@ When a Memorian is taken out of action, the connected Stormcast must roll on the
 
 ### **The Trial of Reforging**
 
-The changes to a Reclusian are permanent, reflecting their gradual transformation into something increasingly alien to mortal comprehension.
+The changes to a Ruination Chamber heroes are permanent, reflecting their gradual transformation into something increasingly alien to mortal comprehension.
 
 | Roll | Result | Effect |
 |-|-|-|
@@ -58,8 +58,8 @@ The changes to a Reclusian are permanent, reflecting their gradual transformatio
 
 ---
 
-### **Reclusian Skills Table**
-Reclusians may choose skills from the following table during advancement:
+### **Ruination Chamber Skills Table**
+Ruination Chamber heroes may choose skills from the following table during advancement:
 
 1. **Lightning Descent**  
    During deployment, this model may choose to be held in reserve. Deploy that model during any Recovery Phase. Choose a point on a map within **6 inches** of that model memorian without any roof on top of it, then test initiative (**I**): upon succesful test that model arrived on that point, upon failure use scatter dice and d6 to locate its arrival point relative to selected point. Upon arrival, all models within **3 inches** take a **Strength 5 hit**.  
@@ -68,15 +68,49 @@ Reclusians may choose skills from the following table during advancement:
    Once per battle, in charge phase, the Stormcast can make a charge without needing line of sight. This charge ignores difficult terrain penalties.
 
 3. **Storm-Forged Will**  
-   The Reclusian automatically passes **all-alone** tests.
+   This model automatically passes **all-alone** tests.
 
 4. **Sigmar’s Fury**  
-   Once per game, the Reclusian can channel divine energy to reroll **one failed roll to wound** in first combat phase.
+   Once per game, this model can channel divine energy to reroll **one failed roll to wound** in first combat phase.
+
+---
+
+Ruination Chamber equipment list 
+The following list is used by Ruination Chamber warbands to pick their equipment:
+
+**HERO EQUIPMENT LIST**
+| Hand-to-hand Combat Weapons | |
+|----|----|
+| Dagger | 1st free/2 gc |
+| Mace | 3 gc |
+| Axe | 5 gc |
+| Sword | 10 gc |
+| Double-Handed Weapon | 15 gc |
+| Flail | 15 gc |
+
+| Armor | |
+|---|---|
+| Shield | 5 gc |
+| Helmet | 10 gc |
+| Light armor | 20 gc |
+| Heavy armour | 50 gc |
+
+**HENCHMEN EQUIPMENT LIST**
+| Hand-to-hand Combat Weapons | |
+|----|----|
+| Dagger | 1st free/2 gc |
+| Mace | 3 gc |
+| Axe | 5 gc |
+| Sword | 10 gc |
+| Double-Handed Weapon | 15 gc |
+| Flail | 15 gc |
 
 ---
 
 ### **Weapon & Armor Upgrade System**
 Stormcast warriors can upgrade standard Mordheim equipment with unique Stormcast enhancements.
+All upgraded weapons count as magical weapons.
+Upgrades to weapons and armor only work when Ruination Chambers hero uses them.
 Weapon and armor upgrades do not stack.
 
 #### **Weapon Upgrades**
@@ -87,8 +121,109 @@ Weapon and armor upgrades do not stack.
 5. **Hallowed Greataxes:** (Only for Lord-Vigilant) Melee attacks gain **+1 to to-wound rolls** against Undead and Chaos models. (Only for weapons with Cutting edge rule **Cost:** 30 Gold Crowns **Rarity** 9)
 
 #### **Armor Upgrades**
-1. **Celestial Plate:** Standard armor improves by **+1 save** (e.g., light armor becomes 5+, heavy armor becomes 4+). (**Cost:** 30 Gold Crowns **Rarity** 10)
-2. **Sigmars mask:** The Stormcast becomes immune to **Fear** when hes getting charged by model with that rule. (**Cost:** 25 Gold Crowns **Rarity** 7)
+1. **Celestial Plate:** Can ignore incoming critical strike effect on a 4+. (**Cost:** 30 Gold Crowns **Rarity** 10)
+2. **Sigmars mask:** The Stormcast becomes immune to **Fear** when hes getting charged by model with **Fear** rule. (**Cost:** 25 Gold Crowns **Rarity** 7)
+
+---
+
+## **Heroes**
+
+1 **Lord-Vigilant**
+
+140 Gold Crowns to hire 
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 3 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 10 |
+
+**Weapons/Armor:** Lord-Vigilant may be equipped with weapons and armor chosen from the Hero Equipment list
+
+**SPECIAL RULES:**
+
+**Leader:** Any friendly Ruination Chambers model within 6” of this Hero may use his **Leadership** instead
+
+---
+
+0-1 **Lord-Veritant**
+
+75 Gold Crowns to hire
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 3 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+
+**Weapons/Armor:** Lord-Veritant may be equipped with weapons and armor chosen from the Hero Equipment list
+
+**SPECIAL RULES**
+
+**Sense unholy sorcery:** while this model is not taken Out Of Action substract 1  from any enemy spell casting rolls from Chaos Rituals, Necromancy, and any other chaos aligned magic.
+
+**Wizard:** The Lord-Veritant is a wizard and uses Prayers of Sigmar. See the Magic section of core rules for details
+
+---
+
+0-3 **Reclussian**
+
+70 Gold Crowns to hire 
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 3 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
+
+**Weapons/Armor:** Reclussian may be equipped with weapons and armor chosen from the Hero Equipment list
+
+
+## **Henchmen**
+
+0-5 **Memorian**
+
+Use **Memorian Hiring Table** to hire
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 1 | 6 |
+
+**Weapons/Armor**: Memorian may be equipped with weapons and armor chosen from the Henchmen Equipment list.
+
+---
+
+## Hired Swords
+
+Ruination Chamber can hire any good aligned Hired Sword and two henchmen below:
+
+**Knight Questor**
+
+50 gold crowns to hire + 15 gold crowns upkeep
+
+**Rating:** A Knight Questor increases the warband’s rating by 20 points plus 1 point for each Experience point he has
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 4 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 7 |
+
+**Weapons/Armor:** Sword, Heavy Armor with Celestial Plate upgrade
+
+**SPECIAL SKILLS**
+
+**His will be done:** If this model contests any stationary objective, it has additional 5+ save. If this model carries mobile objective, it has +1 to **Move**
+
+---
+
+**Lord-Terminos**
+
+70 gold crowns to hire + 15 gold crowns upkeep
+
+**Rating:** A Lord-Terminos increases the warband’s rating by 25 points plus 1 point for each Experience point he has
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 4 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+
+**Weapons/Armor:** Double-Handed Weapon, Heavy Armor with Celestial Plate upgrade, Helmet with Sigmars Mask upgrade
+
+**SPECIAL SKILLS**
+
+**Earn an honorable death:** You can fire one hero (except your leader) from your warband after post-game sequence
 
 ---
 
@@ -198,7 +333,7 @@ And yet, they are not invincible. I saw one of them falter. Whether it was becau
 
 If they can break, then maybe—just maybe—we can make them fall.
 
-### **Reclusians: Heralds of the Fractured Aether**  
+### **Ruination Chamber: Heralds of the Fractured Aether**  
 Among the shadowed alleys and crumbling ruins of Mordheim, tales have begun to spread of armored giants striding through the Wyrdstone-strewn streets. These enigmatic warriors call themselves *Reclusians*. To some, they are divine emissaries sent by Sigmar himself, celestial knights plucked from the heavens to purge the corruption of Chaos from this cursed city. To others, they are deluded zealots, twisted souls clad in scavenged armor, their minds broken by the impossible horrors that Mordheim has to offer.  
 
 Their leader, known only as the **Lord-Vigilant**, preaches of a shattered gateway between realms—a rent in the "Aetheric Veil" through which they descended. Their arrival was heralded, they claim, by visions of Sigmar’s lightning-scorched throne and whispers of divine purpose. Yet no two warriors seem to remember the same journey, and their fragmented recollections only deepen the mystery surrounding their origins.
@@ -210,7 +345,7 @@ The warband’s behavior walks a razor’s edge between solemnity and absurdity,
 - Memorians sometimes forget their "divine purpose" and wander off mid-battle, leaving their companion to shout incoherent prayers until they reappear.  
 - When some poor soul somehow asked them how they arrived in Mordheim, one warrior replied cryptically, "I was pulled through the sky on a chariot of golden lightning," while another simply muttered, "I tripped."
 
-Despite their peculiarities, the Reclusians fight with a ferocity that cannot be denied. Whether they are divine emissaries, lunatics, or something else entirely, one thing is certain: they are a force to be reckoned with, and Mordheim trembles beneath their storm-forged boots.
+Despite their peculiarities, the Ruination Chamber fight with a ferocity that cannot be denied. Whether they are divine emissaries, lunatics, or something else entirely, one thing is certain: they are a force to be reckoned with, and Mordheim trembles beneath their storm-forged boots.
 
 ---
 
