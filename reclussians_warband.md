@@ -216,6 +216,28 @@ Ruination Chamber can hire any good aligned Hired Sword and two henchmen below:
 
 ---
 
+**Prosecutor**
+
+120 gold crowns to hire + 15 gold crowns upkeep
+
+**Rating:** A Lord-Terminos increases the warband’s rating by 25 points plus 1 point for each Experience point he has
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|-|-|-|-|-|-|-|-|-|-|
+| | 4 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
+
+**Weapons/Armor:** Spear with Rune-blessed weapon upgrade, Light Armor with Celestial Plate upgrade
+
+**SPECIAL SKILLS**
+
+**Fly:** This model can move onto the roofs of buildings and other high places or any kind of difficult terrain with no penalty or tests
+
+**Dispersed formation:** Can be deployed within **12 inches** of the center of the board, but cannot carry or contest any objectives
+
+**Herald of righteousness:** This model has +1 Attack (**A**) on the charge
+
+---
+
 **Lord-Terminos**
 
 70 gold crowns to hire + 15 gold crowns upkeep
