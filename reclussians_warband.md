@@ -5,27 +5,28 @@
 - **Oathbound Discovery:** In post-battle sequence, in exploration phase, you do not gain any exploration dice for any Ruination Chamber heroes; instead, you roll one exploration dice per friendly memorian not taken out of action.
 - **Memorians as Henchmen:** Memorians are hired using a **Memorian Hiring Table** (detailed below) instead of normal procedure of hiring henchmen in Mordheim rules (at start or in post-battle sequence). Each roll incurs a hiring cost, regardless of whether you successfully find a Memorian. If memorian is taken Out Of Action, invoke **Memorian Death Effects** rule after game.
 - **Eternal Serving:** Ruination Chamber heroes can't be fired from a warband. Memorians cant'be promoted to be a hero through Lad's got a talent or any other mean.
-- **The Trial of Reforging:** When a Ruination Chamber Hero suffers is taken out of action during a game (or loses their Memorian) instead of rolling on Serious Injury Table, roll **2d6** on the The **Trial of Reforging** table below. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
+- **The Trial of Reforging:** When a Ruination Chamber Hero is taken out of action during a game (or loses their Memorian) and rolls 12-16 results Serious Injury Table, roll **2d6** on the The **Trial of Reforging** table below, if he rolls 11 then roll on that table 3 times. Each result represents a fragment of the reforging process—a violent, imperfect reconstruction of their soul that can grant blessings, curses, or both.
 - **Burn the Heretic!:** Witch Hunters harbor a deep-seated hatred for the Ruination Chamber, whom they consider heretics. As a result, any Witch hunter models with 'Burn the Witch' also hate members of the Ruination Chamber warband.
 
 ---
 
 ### **Memorian Hiring Table**
 Before hiring you should choose Ruination Chamber hero you will pair your memorian with, only one memorian can be paired to a Ruination Chamber hero at a time.
+**Cost to Buy:** 25 Gold Crowns per attempt (regardless of success).
+Before rolling at Memorian Hiring table you should roll for rarity same way you roll for rarity of an item you wish to buy, consider **rarity** of a memorian as **8**.
 Roll **2d6** to determine the Memorian you find (if any).  
-**Cost to Roll:** 25 Gold Crowns per attempt (regardless of success).
+
 
 At the start of each turn memorians grant bonuses only if they are within **6 inches** of their paired Ruination Chamber hero model, untill the start of next turn, or until Ruination chamber hero or memorian is forced to move (eg from falling) farther than **6 inches** away from its paired model on any enemy turn.
 All Memorians give +1M as additional bonus to their paired Ruination Chamber hero.
 
 | 2d6 | Result | Notes |
 |---|---|---|
-| 2    | No Memorian Found | You fail to locate any Memorians this round |
-| 3-4  | Found Memorian with Ancestor’s Blade Charm | Grants +1 WS to the paired Ruination Chamber hero |
+| 2-4  | Found Memorian with Ancestor’s Blade Charm | Grants +1 WS to the paired Ruination Chamber hero |
 | 5-6  | Found Memorian with Beacon Amulet | Grants +1 Leadership to the paired Ruination Chamber hero |
-| 7    | Found Memorian with Faded Keepsake | You find a Memorian, but it grants no bonus |
-| 8-9  | Found Memorian with Relic of the Windcaller | Grants +1 Initiative to the paired Ruination Chamber hero |
-| 10-11| Found Memorian with Hammerstone Pendant | Grants +1 Strength to the paired Ruination Chamber hero |
+| 7-8  | Found Memorian with Faded Keepsake | You find a Memorian, but it grants no bonus |
+| 9-10  | Found Memorian with Relic of the Windcaller | Grants +1 Initiative to the paired Ruination Chamber hero |
+| 11 | Found Memorian with Hammerstone Pendant | Grants +1 Strength to the paired Ruination Chamber hero |
 | 12   | Found Memorian with Aegis of the Stalwart | Grants +1 Toughness to the paired Ruination Chamber hero |
 
 ---
@@ -137,7 +138,7 @@ Weapon and armor upgrades do not stack - one weapon can only have one upgrade at
 
 1 **Lord-Vigilant**
 
-130 Gold Crowns to hire 
+120 Gold Crowns to hire 
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
@@ -171,7 +172,7 @@ Weapon and armor upgrades do not stack - one weapon can only have one upgrade at
 
 0-3 **Reclussian**
 
-65 Gold Crowns to hire 
+50 Gold Crowns to hire 
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
@@ -220,11 +221,11 @@ Ruination Chamber can hire any good aligned Hired Sword and three henchmen below
 
 120 gold crowns to hire + 15 gold crowns upkeep
 
-**Rating:** A Lord-Terminos increases the warband’s rating by 25 points plus 1 point for each Experience point he has
+**Rating:** A Prosecutor increases the warband’s rating by 45 points plus 1 point for each Experience point he has
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 |-|-|-|-|-|-|-|-|-|-|
-| | 4 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
+| | 6 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
 
 **Weapons/Armor:** Spear with Rune-blessed weapon upgrade, Light Armor with Celestial Plate upgrade
 
